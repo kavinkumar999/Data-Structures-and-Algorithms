@@ -1,4 +1,14 @@
 <h1 align="center">Data-Structures-and-Algorithms</h1>
+<details open="open">
+<summary>Table of content</summary>
+
+- [Data Structure](#data-structure)
+- [Abstract Data Type](#abstract-data-type)
+- [Basic Data Structure](#basic-data-structure)
+- [Alogrithm](#alogrithm)
+- [Alogrithm by Topic](#alogrithm-by-topic)
+- [Alogrithm by Paradigm](#alogrithm-by-paradigm)
+</details>
 
 
 ## Data Structure
@@ -41,7 +51,7 @@ Let us consider the system-defined data types (int,float,double) support the bas
 - [Divide and Conquer]()
 - [Bactracking]()
   
-  
+
 ---
 
 
