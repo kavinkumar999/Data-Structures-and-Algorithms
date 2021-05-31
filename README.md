@@ -28,28 +28,28 @@ Based on the Organization, it is classified into two types
 Let us consider the system-defined data types (int,float,double) support the basic addition and subraction operation. For same as the user-defined types we need some operation to defined to solve the problems. To combine the data-structures with their operation is called **Abstrat Data Type**
 
 ## Basic Data Structure
- - [Array]()
- - [Linked List]()
- - [Stack]()
- - [Queue]()
- - [Tree]()
- - [Graph]()
+ - [Array](Array/README.md)
+ - [Linked List](Linked-List/README.md)
+ - [Stack](Stack/README.md)
+ - [Queue](Queue/README.md)
+ - [Tree](Tree/README.md)
+ - [Graph](Graph/README.md)
 
 ## Alogrithm
 > An alogrithm is step-by-step unambigous instructions to solve a given problem
 
 ## Alogrithm by Topic
 - [Math]()
-- [String]()
-- [Recursion]()
-- [Sorting Technique]()
-- [Searching Technique]()
+- [String](String/README.md)
+- [Recursion](Recursion/README.md)
+- [Sorting Technique](Sorting/README.md)
+- [Searching Technique](Searchig/README.md)
 ## Alogrithm by Paradigm
-- [Brute Force]()
-- [Greedy Algorithm]()
-- [Dynamic Programming]()
-- [Divide and Conquer]()
-- [Bactracking]()
+- [Brute Force](Algorithms/Brute_Force/README.md)
+- [Greedy Algorithm](Algorithms/Greedy_Algorithm/README.md)
+- [Dynamic Programming](Algorithms/Dynamic_programming/README.md)
+- [Divide and Conquer](Algorithms/Divide_and_Conquer/README.md)
+- [Bactracking](Algorithms/Brute_Force/README.md)
   
 
 ---
