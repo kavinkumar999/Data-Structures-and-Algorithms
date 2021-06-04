@@ -118,38 +118,38 @@ len = len-1
 ```
 > **Time complexity** for the algorithm is O(N)
 ---
-## problems
+## Problems
 
-| Problems    | solution          
-| :------------- |:-------------:| 
-| Reverse the arrary    | [Here]() | 
-| Sliding window Technique     | [Here]() | 
-| Binary array Sorting | [Here]() |
-| Prefix array sum | [Here]() |
-| Container with most water | [Here]() |
-| Equilibrium Point | [Here]() |
-| Find duplicates in the array | [Here]() |
-| Frequencies of Limited Range Array Elements | [Here]() |
-| Intersection of two arrays | [Here]() |
-| Kedane's Algorithm | [Here]() |
-| Max and second Max of the array | [Here]() |
-| Max circular subarray sum  | [Here]() |
-| Maximum index  | [Here]() |
-| Maximum sum in configuration  | [Here]() |
-| Maximum sum path in two arrays  | [Here]() |
-| Minimum distance between two numbers  | [Here]() |
-| Mountain subarray problem  | [Here]() |
-| Overlapping intervals  | [Here]() |
-| Product array puzzle   | [Here]() |
-| Rearrange an array with O(1) extra space   | [Here]() |
-| Remove duplicates in small prime array   | [Here]() |
-| Replace all 0's with 5   | [Here]() |
-| Rotate Array   | [Here]() |
-| Sorted subsequence of size 3  | [Here]() |
-| Stickler Thief   | [Here]() |
-| Subarray with given sum   | [Here]() |
-| Third largest element  | [Here]() |
-| Three Sum Closest   | [Here]() |
-| Trapping Rain Water   | [Here]() |
-| Union of Two Sorted Arrays   | [Here]() |
-| Wave Array   | [Here]() |
+| Problems    | Question  |  Solution |     
+| :------------- |:-------------:| ------- |
+| Reverse the arrary    | [Here]() |  [Here]() | 
+| Sliding window Technique     | [Here]() |  [Here]() | 
+| Binary array Sorting | [Here]() |  [Here]() |
+| Prefix array sum | [Here]() |  [Here]() |
+| Container with most water | [Here]() |  [Here]() |
+| Equilibrium Point | [Here]() |  [Here]() |
+| Find duplicates in the array | [Here]() |  [Here]() |
+| Frequencies of Limited Range Array Elements | [Here]() |  [Here]() |
+| Intersection of two arrays | [Here]() |  [Here]() |
+| Kedane's Algorithm | [Here]() |  [Here]() |
+| Max and second Max of the array | [Here]() |  [Here]() |
+| Max circular subarray sum  | [Here]() |  [Here]() |
+| Maximum index  | [Here]() |  [Here]() |
+| Maximum sum in configuration  | [Here]() |  [Here]() |
+| Maximum sum path in two arrays  | [Here]() |  [Here]() |
+| Minimum distance between two numbers  | [Here]() |  [Here]() |
+| Mountain subarray problem  | [Here]() |  [Here]() |
+| Overlapping intervals  | [Here]() |  [Here]() |
+| Product array puzzle   | [Here]() |  [Here]() |
+| Rearrange an array with O(1) extra space   | [Here]() |  [Here]() |
+| Remove duplicates in small prime array   | [Here]() |  [Here]() |
+| Replace all 0's with 5   | [Here]() |  [Here]() |
+| Rotate Array   | [Here]() |  [Here]() |
+| Sorted subsequence of size 3  | [Here]() |  [Here]() |
+| Stickler Thief   | [Here]() |  [Here]() |
+| Subarray with given sum   | [Here]() |  [Here]() |
+| Third largest element  | [Here]() |  [Here]() |
+| Three Sum Closest   | [Here]() |  [Here]() |
+| Trapping Rain Water   | [Here]() |  [Here]() |
+| Union of Two Sorted Arrays   | [Here]() |  [Here]() |
+| Wave Array   | [Here]() |  [Here]() |
