@@ -120,36 +120,36 @@ len = len-1
 ---
 ## Problems
 
-| Problems    | Question  |  Solution |     
-| :------------- |:-------------:| ------- |
-| Reverse the arrary    | [Here]() |  [Here]() | 
-| Sliding window Technique     | [Here]() |  [Here]() | 
-| Binary array Sorting | [Here]() |  [Here]() |
-| Prefix array sum | [Here]() |  [Here]() |
-| Container with most water | [Here]() |  [Here]() |
-| Equilibrium Point | [Here]() |  [Here]() |
-| Find duplicates in the array | [Here]() |  [Here]() |
-| Frequencies of Limited Range Array Elements | [Here]() |  [Here]() |
-| Intersection of two arrays | [Here]() |  [Here]() |
-| Kedane's Algorithm | [Here]() |  [Here]() |
-| Max and second Max of the array | [Here]() |  [Here]() |
-| Max circular subarray sum  | [Here]() |  [Here]() |
-| Maximum index  | [Here]() |  [Here]() |
-| Maximum sum in configuration  | [Here]() |  [Here]() |
-| Maximum sum path in two arrays  | [Here]() |  [Here]() |
-| Minimum distance between two numbers  | [Here]() |  [Here]() |
-| Mountain subarray problem  | [Here]() |  [Here]() |
-| Overlapping intervals  | [Here]() |  [Here]() |
-| Product array puzzle   | [Here]() |  [Here]() |
-| Rearrange an array with O(1) extra space   | [Here]() |  [Here]() |
-| Remove duplicates in small prime array   | [Here]() |  [Here]() |
-| Replace all 0's with 5   | [Here]() |  [Here]() |
-| Rotate Array   | [Here]() |  [Here]() |
-| Sorted subsequence of size 3  | [Here]() |  [Here]() |
-| Stickler Thief   | [Here]() |  [Here]() |
-| Subarray with given sum   | [Here]() |  [Here]() |
-| Third largest element  | [Here]() |  [Here]() |
-| Three Sum Closest   | [Here]() |  [Here]() |
-| Trapping Rain Water   | [Here]() |  [Here]() |
-| Union of Two Sorted Arrays   | [Here]() |  [Here]() |
-| Wave Array   | [Here]() |  [Here]() |
+| Problems    | Soultion  |      
+| :------------- |:-------------:| 
+| Reverse the arrary    | [Here](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/) |  
+| Sliding window Technique     | [Here](https://www.geeksforgeeks.org/window-sliding-technique/) |  
+| Binary array Sorting | [Here](https://practice.geeksforgeeks.org/problems/binary-array-sorting-1587115620/1) | 
+| Prefix array sum | [Here](https://www.geeksforgeeks.org/prefix-sum-array-implementation-applications-competitive-programming/) | 
+| Container with most water | [Here](https://leetcode.com/problems/container-with-most-water/) | 
+| Equilibrium Point | [Here](https://practice.geeksforgeeks.org/problems/equilibrium-point-1587115620/1) | 
+| Find duplicates in the array | [Here](https://www.geeksforgeeks.org/find-duplicates-given-array-elements-not-limited-range/) | 
+| Frequencies of Limited Range Array Elements | [Here](https://www.geeksforgeeks.org/find-frequency-of-each-element-in-a-limited-range-array-in-less-than-on-time/) | 
+| Intersection of two arrays | [Here](https://leetcode.com/problems/intersection-of-two-arrays/) | 
+| Kedane's Algorithm | [Here](https://leetcode.com/problems/maximum-subarray/discuss/369797/kadanes-algorithm-with-detailed-explanation-and-example-python) | 
+| Max and second Max of the array | [Here](https://www.geeksforgeeks.org/find-second-largest-element-array/) | 
+| Max circular subarray sum  | [Here](https://www.geeksforgeeks.org/maximum-contiguous-circular-sum/) | 
+| Maximum index  | [Here](https://www.geeksforgeeks.org/given-an-array-arr-find-the-maximum-j-i-such-that-arrj-arri/) | 
+| Maximum sum in configuration  | [Here](https://www.geeksforgeeks.org/maximum-sum-iarri-among-rotations-given-array/) | 
+| Maximum sum path in two arrays  | [Here](https://www.geeksforgeeks.org/maximum-sum-path-across-two-arrays/) | 
+| Minimum distance between two numbers  | [Here](https://www.geeksforgeeks.org/find-the-minimum-distance-between-two-numbers/) | 
+| Mountain subarray problem  | [Here](https://www.geeksforgeeks.org/find-whether-subarray-form-mountain-not/) | 
+| Overlapping intervals  | [Here](https://www.geeksforgeeks.org/maximum-number-of-overlapping-intervals/) | 
+| Product array puzzle   | [Here](https://www.geeksforgeeks.org/a-product-array-puzzle/) | 
+| Rearrange an array with O(1) extra space   | [Here](https://www.geeksforgeeks.org/rearrange-given-array-place/) | 
+| Remove duplicates in small prime array   | [Here](https://www.geeksforgeeks.org/remove-duplicates-from-an-array-of-small-primes/) | 
+| Replace all 0's with 5   | [Here](https://www.geeksforgeeks.org/replace-0-5-input-integer/) | 
+| Rotate Array   | [Here](https://www.geeksforgeeks.org/array-rotation/) | 
+| Sorted subsequence of size 3  | [Here](https://www.geeksforgeeks.org/sorted-subsequence-size-3-linear-time-using-constant-space/) | 
+| Stickler Thief   | [Here](https://practice.geeksforgeeks.org/problems/stickler-theif-1587115621/1) | 
+| Subarray with given sum   | [Here](https://www.geeksforgeeks.org/find-subarray-with-given-sum/) | 
+| Third largest element  | [Here](https://www.geeksforgeeks.org/third-largest-element-array-distinct-elements/) | 
+| Three Sum Closest   | [Here](https://www.geeksforgeeks.org/find-a-triplet-in-an-array-whose-sum-is-closest-to-a-given-number/) | 
+| Trapping Rain Water   | [Here](https://www.geeksforgeeks.org/trapping-rain-water/) | 
+| Union of Two Sorted Arrays   | [Here](https://www.geeksforgeeks.org/union-and-intersection-of-two-sorted-arrays-2/) | 
+| Wave Array   | [Here](https://www.geeksforgeeks.org/sort-array-wave-form-2/) | 
