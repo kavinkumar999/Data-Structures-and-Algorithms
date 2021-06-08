@@ -35,13 +35,12 @@ enter the line we stand at the end of the line and the person who is at the fron
 
 | Problems    | Soultion  |      
 | :------------- |:-------------:| 
-|  | [Here]() | 
-|  | [Here]() | 
-|  | [Here]() | 
-|  | [Here]() | 
-|  | [Here]() | 
-|  | [Here]() | 
-|  | [Here]() | 
-|  | [Here]() | 
-|  | [Here]() | 
-|  | [Here]() | 
+| Circular tour  | [Here](https://www.geeksforgeeks.org/find-a-tour-that-visits-all-stations/) | 
+| Generate Binary Numbers | [Here](https://www.geeksforgeeks.org/interesting-method-generate-binary-numbers-1-n/) | 
+| Implement Queue using array  | [Here](https://www.geeksforgeeks.org/array-implementation-of-queue-simple/) | 
+| LRU Cache Implementation | [Here](https://www.geeksforgeeks.org/lru-cache-implementation/) | 
+| Maximum of all subarrays of size k  | [Here](https://www.geeksforgeeks.orgsliding-window-maximum-maximum-of-all-subarrays-of-size-k/) | 
+| Operations on Queue  | [Here](https://afteracademy.com/blog/queue-and-its-basic-operations) | 
+| Queue Reversal | [Here](https://www.geeksforgeeks.org/reversing-a-queue/) | 
+| Queue using two Stacks | [Here](https://www.geeksforgeeks.org/queue-using-stacks/) | 
+| Reverse First K elements of Queue  | [Here](https://www.geeksforgeeks.org/reversing-first-k-elements-queue/) | 
