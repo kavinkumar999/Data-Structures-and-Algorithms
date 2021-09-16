@@ -1,6 +1,13 @@
 # Searching
 
+> Array: A data structure that holds multiple items (Integers or Strings for example).
 
+
+**Linear Search** An algorithm to look for a target within an array, starting with the first item and moving through the next one in turn until the element is found.
+**Searching** The process of looking for something in a set of those things.
+String: An ordered sequence of characters, can be thought of as a word or sentence.
+
+**Binary Search** An algorithm to look for a target within an array, by deciding for a pivot if the element is in the first or second half of the array. **Divide and conquer**: An algorithm that works by breaking a problem down into one or two sub-problems, repeatedly, until the problem is so small that it can be solved.<br>
 ## Problems:
 
 | Problems    | Soultion  |      
