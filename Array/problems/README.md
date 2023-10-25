@@ -180,7 +180,7 @@ we have only 3 digits, so better to intialize three variables and count all the 
  ---
 
 
-## <span id="4">Sort Colors</span> [Leetcode](https://leetcode.com/problemsbest-time-to-buy-and-sell-stock/)
+## <span id="4">Stock Buy and Sell</span> [Leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 
 **Brute Force Approach** 
@@ -252,7 +252,7 @@ Before we use some extra array space; now we optimise it furuther
  
  ---
 
- ## <span id="5">Sort Colors</span> [Leetcode](https://leetcode.com/problems/next-permutation/)
+ ## <span id="5">Next Permutation</span> [Leetcode](https://leetcode.com/problems/next-permutation/)
 
 
 **Efficient Approach** 
