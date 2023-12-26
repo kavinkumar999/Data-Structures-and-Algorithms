@@ -1,20 +1,15 @@
 # Problems
 
-| Problems    | Soultion  |      
-| :------------- |:-------------:| 
-| [set Matrix to zeros](https://leetcode.com/problems/set-matrix-zeroes)  | [Here](#1) | 
-| [pascals-triangle](https://leetcode.com/problems/pascals-triangle/)  | [Here](#2) | 
-| [Sort Colors](https://leetcode.com/problems/sort-colors/)  | [Here](#3) | 
-| [Stock Buy and Sell](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  | [Here](#4) | 
-| [Next Permutation](https://leetcode.com/problems/next-permutation/)  | [Here](#5) | 
+- [Problems](#problems)
+  - [Set matrix to zeroLeetcode](#set-matrix-to-zeroleetcode)
+  - [pascals-triangle Leetcode](#pascals-triangle-leetcode)
+  - [Sort Colors Leetcode](#sort-colors-leetcode)
+  - [Stock Buy and Sell Leetcode](#stock-buy-and-sell-leetcode)
+  - [Next Permutation Leetcode](#next-permutation-leetcode)
 
 
-<br>
-<br>
-<br>
 
-
-## <span id="1">Set matrix to zero</span> [Leetcode](https://leetcode.com/problems/set-matrix-zeroes/)
+## Set matrix to zero[Leetcode](https://leetcode.com/problems/set-matrix-zeroes/)
 
 **Brute Force Approach** 
 
@@ -90,8 +85,7 @@ We use hashing instead of a new m*n array. When encountering a zero, we hash the
 
     return matrix;
 ```
----
-## <span id="2">pascals-triangle</span> [Leetcode](https://leetcode.com/problems/pascals-triangle/)
+## pascals-triangle [Leetcode](https://leetcode.com/problems/pascals-triangle/)
 
 ![pascal](../image/pascals.gif)
 
@@ -127,9 +121,7 @@ Questions could arise from
 > **Time complexity** is O(n * 2) <br>
  **Space complexity**  O(n * 2)
  
----
-
-## <span id="3">Sort Colors</span> [Leetcode](https://leetcode.com/problems/sort-colors/)
+## Sort Colors [Leetcode](https://leetcode.com/problems/sort-colors/)
 
 
 **Brute Force Approach** 
@@ -177,10 +169,7 @@ we have only 3 digits, so better to intialize three variables and count all the 
 > **Time complexity** is O(n) <br>
  **Space complexity**  O(1)
  
- ---
-
-
-## <span id="4">Stock Buy and Sell</span> [Leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+## Stock Buy and Sell [Leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 
 **Brute Force Approach** 
@@ -250,9 +239,7 @@ Before we use some extra array space; now we optimise it furuther
 > **Time complexity** is O(n) <br>
  **Space complexity**  O(1)
  
- ---
-
- ## <span id="5">Next Permutation</span> [Leetcode](https://leetcode.com/problems/next-permutation/)
+ ## Next Permutation [Leetcode](https://leetcode.com/problems/next-permutation/)
 
 
 **Efficient Approach** 
@@ -315,5 +302,3 @@ Before we use some extra array space; now we optimise it furuther
 > **Time complexity** is O(n) <br>
  **Space complexity**  O(1)
  
- ---
-
