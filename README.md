@@ -3,7 +3,6 @@
 <summary>Table of content</summary>
 
 - [Data Structure](#data-structure)
-- [Abstract Data Type](#abstract-data-type)
 - [Basic Data Structure](#basic-data-structure)
 - [Alogrithm](#alogrithm)
 - [Alogrithm by Topic](#alogrithm-by-topic)
@@ -23,11 +22,9 @@ Based on the Organization, it is classified into two types
   - Elements are stored and accessed in sequential manner
   - Examples : Tree , Graph
   
-## Abstract Data Type
-
-Let us consider the system-defined data types (int,float,double) support the basic addition and subraction operation. For same as the user-defined types we need some operation to defined to solve the problems. To combine the data-structures with their operation is called **Abstrat Data Type**
-
 ## Basic Data Structure
+
+ - [Time complexity cheat sheet](time-complexity.md)
  - [Array](Array/README.md)
  - [Linked List](Linked-List/README.md)
  - [Stack](Stack/README.md)
