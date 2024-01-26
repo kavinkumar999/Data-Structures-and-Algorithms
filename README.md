@@ -1,4 +1,4 @@
-<h1 align="center">Data-Structures-and-Algorithms</h1>
+<h1 align="center">Data Structures & Algorithms</h1>
 <details open="open">
 <summary>Table of content</summary>
 
@@ -22,7 +22,6 @@ Based on the Organization, it is classified into two types
   - Examples : Tree , Graph
   
 ## Zero'th step
-
  - [Time complexity cheat sheet](./Time%20Complexity/README.md)
  - [Pattern Problems](https://www.edureka.co/blog/30-pattern-programs-in-java/)
  - [Java Collections]()
