@@ -24,7 +24,7 @@ Based on the Organization, it is classified into two types
   
 ## Basic Data Structure
 
- - [Time complexity cheat sheet](time-complexity.md)
+ - [Time complexity cheat sheet](./Time%20Complexity/README.md)
  - [Array](Array/README.md)
  - [Linked List](Linked-List/README.md)
  - [Stack](Stack/README.md)
