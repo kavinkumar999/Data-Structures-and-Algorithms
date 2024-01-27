@@ -3,8 +3,9 @@
 <summary>Table of content</summary>
 
 - [Data Structure](#data-structure)
-- [Zero'th step](#zeroth-step)
+- [Fundamentals](#fundamentals)
 - [Data Structures](#data-structures)
+- [Patterns](#patterns)
 </details>
 
 > An alogrithm is step-by-step unambigous instructions to solve a given problem
@@ -21,9 +22,9 @@ Based on the Organization, it is classified into two types
   - Elements are stored and accessed in sequential manner
   - Examples : Tree , Graph
   
-## Zero'th step
+## Fundamentals
  - [Time complexity cheat sheet](./Time%20Complexity/README.md)
- - [Pattern Problems](https://www.edureka.co/blog/30-pattern-programs-in-java/)
+ - [Pattern Printing Problems](https://www.edureka.co/blog/30-pattern-programs-in-java/)
  - [Java Collections]()
  - [Math problems]()
  - [Sorting Technique](Sorting/README.md)
@@ -36,6 +37,13 @@ Based on the Organization, it is classified into two types
  - [Queue](Queue/README.md)
  - [Tree](Tree/README.md)
  - [Graph](Graph/README.md)
+
+## Patterns
+- [Binary Search]()
+  - [Material 1](https://leetcode.com/discuss/study-guide/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems)
+  - [Material 2](https://leetcode.com/discuss/study-guide/1322500/5-variations-of-Binary-search-(A-Self-Note))
+- [Slinding Window](https://leetcode.com/discuss/study-guide/3722472/Sliding-Window-Technique%3A-A-Comprehensive-Guide)
+- [Greedy Technique](https://leetcode.com/discuss/study-guide/669996/Greedy-for-Beginners-Problems-or-Sample-solutions)
 
 
 > The cheapest , fastest and reliable components are not get with first strech ⛏️
