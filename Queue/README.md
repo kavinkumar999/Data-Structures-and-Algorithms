@@ -27,7 +27,7 @@ enter the line we stand at the end of the line and the person who is at the fron
 - Operating systems schedule jobs (with equal priority) in the order of arrival
 - Simulation of real-world queues such as lines at a ticket counter
 - Asynchronous data transfer
-- 
+
 ### Indirect Application:
 - Auxiliary data structure for algorithms
 
